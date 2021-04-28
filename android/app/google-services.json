@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "752773332880",
+    "firebase_url": "https://books-46b36-default-rtdb.firebaseio.com",
+    "project_id": "books-46b36",
+    "storage_bucket": "books-46b36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752773332880:android:32e2e40b8645c3855abd15",
+        "android_client_info": {
+          "package_name": "com.sloppy.books"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752773332880-mks8e58pamq22dog3o62qbgor7iidke3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sloppy.books",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "752773332880-cd73b17vsgb0tmdcob2qtie8sski2tpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArlF0rFT-XtMXdj-61ygtbiHyB47Vpt9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752773332880-cd73b17vsgb0tmdcob2qtie8sski2tpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
